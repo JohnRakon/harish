@@ -1,0 +1,99 @@
+*{
+	box-sizing: border-box;
+	
+}
+body{
+	font-color:black ;
+	font-family: 'Oxygen', sans-serif;
+	color: #fff;
+	background-color: #61122f;
+	align-items: center;
+
+}
+footer{
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+	font-size: 0.9em;
+	text-align: center;
+	opacity: 0.7;
+	
+}
+h1{
+	margin: 0px;
+	color: black;
+}
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+	margin: 0;
+
+}
+
+#image-size1{
+	width:90%;
+}
+.jumbotron{
+	padding: 0;
+	margin: 10px;
+}
+
+#youtube1 ,#discord1,#instagram1,#facebook1{
+	height:250px;
+	width:100%;
+	margin-bottom: 15px;
+	border: 2px solid #3F0C1F;
+	overflow:hidden;
+}
+#youtube1 ,#discord1,#instagram1,#facebook1:hover{
+	box-shadow: 0 1px 5px 1px #cccccc;
+}
+#youtube1{
+	background: url("Screenshot (79).png") no-repeat;!
+	background-position: center;
+}
+#dicord1{
+	background: url('') no-repeat;
+	background-position: center;
+}
+#instagram1{
+	background: url('') no-repeat;
+	background-position: center;
+}
+
+#youtube1 span ,#discord1 span ,#instagram1 span ,#facebook1 span{
+	position: absolute;
+	bottom: 0px;
+	right: 0;
+	width:auto;
+	font-size: 1.6em;
+	text-transform: uppercase;
+	background-color: #000;
+	color: #fff;
+	opacity: .7;
+	text-align: center;
+	margin: 15px;
+
+
+
+
+}
+#prabhat{
+	text-align: center;
+	padding:auto;
+	
+}
+.row{
+	width: 100%;
+}
+.logolinks{
+	width: 50px;
+	height: 50px;
+}
+.logolinks1{
+	width: 25px;
+	height: 25px;
+}
+
+
